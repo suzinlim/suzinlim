@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐤 Sujin Lim 🐤
+# 🐤 SuJin Lim 🐤
 
 <br><br>
 
