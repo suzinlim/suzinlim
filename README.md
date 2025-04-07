@@ -1,19 +1,4 @@
-<div align="center">
-
-# 🐤 SuJin Lim 🐤
-
-<br><br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzinlim&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suzinlim&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suzinlim&theme=dracula&utcOffset=8)
-
-<br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuzinlim&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
-
-</div>
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=1a81cf&text=Lim%20Sujin&height=150&fontSize=60&desc=Welcome%20to%20my%20github&descAlignY=75&descAlign=60)
 <!--
 **suzinlim/suzinlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
